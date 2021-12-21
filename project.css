@@ -1,0 +1,195 @@
+*{
+    box-sizing: border-box;
+}
+.header{
+    height: 60vh;
+    width: 100vw;
+    background-image: url('bg-6.jpg');
+    clear: both;
+    float: left;
+    filter: blur(2px);
+    position: relative;
+}
+.logo1{
+    position: absolute;
+    padding-left: 70px;
+    margin-top: 10px;
+    text-align: left;
+}
+.menu{
+    margin-top: 30px;
+    position: absolute;
+    float: right;
+    padding-left: 740px;
+  
+  
+    
+}
+.menu a{
+    margin-top: 30px;
+    margin-right: 30px;
+	text-decoration: none;
+	color: purple;
+}
+.sign{
+    position: absolute;
+    text-align: center;
+    padding-top: 120px;
+    padding-left: 600px;
+    color: red;
+}
+.sign a{
+    background: green;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.services{
+    height: 60vh;
+    width: 100vw;
+    text-align: center;
+    margin-top: 40px;
+    padding-left: 40px;
+    padding-top: 30px;
+    clear: both;
+    
+    
+}
+.row1{
+    padding-left: 220px;
+}
+.box1{
+    height: 40vh;
+    width: 20vw;
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+    text-align: center;
+    padding-top: 20px;
+    line-height: 20px;
+    align-content: center;
+   
+    
+}
+img{
+    align-items: center;
+}
+.row2{
+    padding-left: 220px;
+}
+.box2{
+    height: 40vh;
+    width: 20vw;
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+    padding-top: 20px;
+    margin-bottom: 40px;
+    
+}
+.info{
+    height: 30vh;
+    width: 100vw;
+    background-image: url('bg-4.jpg');
+    clear: both;
+    float: left;
+    position: relative;
+    text-indent: 32%;
+    text-align: center;
+    clear: both;
+    
+}
+.con{
+    height: 15vh;
+    width: 40vw;
+    position: absolute;
+    text-align: justify;
+    margin-top: 50px;
+    margin-left: 400px;
+    padding-left: 250px;
+}
+.contect{
+    height: 60vh;
+    width: 100vw;
+    text-align: center;
+    margin-top: 40px;
+    padding-left: 40px;
+    padding-top: 30px;
+    clear: both;
+    margin-bottom: 30px;
+   
+}
+.row3{
+    height: 35vh;
+    width: 100vw;
+    text-align: left;
+    padding-left: 500px;
+    padding-top: 20px;
+    float: left;
+    clear: both;
+    
+}
+.row4{
+    height: 5vh;
+    margin-top: 20px;
+}
+.row5{
+    margin-top: 20px;
+}
+.row5 a{
+    background: green;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    clear: both;
+    
+    
+}
+.about{
+    height: 30vh;
+    width: 100vw;
+    margin-top: 30px;
+    background-color: lightgray;
+    clear: both;
+}
+.colom1{
+    height: 30vh;
+    width: 25vw;
+    float: left;
+    margin-left: 10px;
+}
+.colom2{
+    height: 30vh;
+    width: 25vw;
+    float: left;
+    margin-left: 160px;
+}
+.colom3{
+    height: 30vh;
+    width: 25vw;
+    float: left;
+    margin-left: 150px;
+}
+.logo img{
+    height: 8vh;
+    width: 5vw;
+}
+.colom3 a{
+    background: green;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    clear: both;
+    
+}
+.footer{
+    height: 10vh;
+    width: 100vw;
+    background-color: black;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
