@@ -1,0 +1,64 @@
+.header{
+    height: 15vh;
+    width: 100%;
+    background-image: url(header-bg.jpg);
+    position: relative;
+}
+.logo{
+    height: 5vh;
+    width: 10%;
+    padding-top: 20px;
+    padding-left: 170px;
+}
+.menu{
+    font-size: 20px;
+    float: right;
+    padding-right: 300px;
+    
+
+}
+.menu a{
+    text-decoration: none;
+    padding-left: 25px;
+    color: whitesmoke;
+    margin-bottom: 20px;
+}
+.about{
+    height: 70vh;
+    width: 100%;
+    text-align: center;
+}
+.info{
+    padding-right: 250px;
+    padding-top: 60px;
+    float: right;
+}
+.info1{
+    width: 40%;
+    height: 40vh;
+    margin-top: 60px;
+    margin-left: 45px;
+    float: right;
+    text-align: justify;
+    font-size: 20px;
+}
+.sign{
+    height: 5vh;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+}
+.sign a{
+    background-color: orangered;
+    text-decoration: none;
+    color: whitesmoke;
+    border-radius: 15px;
+    padding: 8px;
+}
+.info2{
+    height: 70vh;
+    width: 100%;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 15px;
+}
